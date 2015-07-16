@@ -9,3 +9,8 @@ Tips: -
     
     base url can be configured in the file config.php
     Added url helper in the autoload.php to load the url codeiginitor package.
+    
+    
+    
+    // For HTML helps........
+    --  https://ellislab.com/codeigniter/user-guide/helpers/html_helper.html
