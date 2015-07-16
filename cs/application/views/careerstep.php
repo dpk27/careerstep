@@ -10,7 +10,6 @@
 
   <body>
 <?php $this->load->view('sticky.php')?>
-<?php $this->load->view('slider.php')?>
     <div style="height:133px;"></div>
     <div class="mainSec">
       <div class="jobSection"></div>
